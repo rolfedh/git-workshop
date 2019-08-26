@@ -1,4 +1,4 @@
-= Git owrkshop
+= Git workshop
 :icons:
 :toc: macro
 :toc-title"
@@ -8,18 +8,18 @@ toc::[]
 
 == Introduction
 
-This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make tyops.
+This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make typos.
 
 NOTE: Kevin might be late to this workshop. In that case, enjoy the lessons contained in this sample repository about how to write words good.
 
 == Creating and handling merge conflicts
 
 * We're going to create merge conflicts in this repository during the workshop.
-This is intended, and is aprt of why there are numerous typos and a decent array of self-referential metahumor.
+This is intended, and is apart of why there are numerous typos and a decent array of self-referential meta-humor.
 
 To create some conflicts:
 
-. Make some form of change to thi sfile and commit your changes.
+. Make some form of change to this file and commit your changes.
 Once everyone has made some kind of change and committed it, we'll update this file remotely.
 
 . Once the file has been updated, try pulling the new changes:
